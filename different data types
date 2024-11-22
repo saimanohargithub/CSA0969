@@ -1,0 +1,10 @@
+public class variable {     
+    public static void main(String[] args) {
+       int a=1;
+       String b="sai";
+       float c=12.0f;
+       System.out.println(b);
+       System.out.println(a);
+       System.out.println(c);
+   }
+}
