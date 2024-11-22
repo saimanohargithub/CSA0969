@@ -1,0 +1,7 @@
+public class string {
+    public static void main(String[] args) {
+        String v = "sai";
+        String u="harsha";
+        System.out.println(v+u);
+    }
+}
