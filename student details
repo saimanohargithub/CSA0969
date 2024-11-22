@@ -1,0 +1,16 @@
+public class student {     
+     public static void main(String[] args) {
+        String name="sai";
+        int id=2157;
+        int age=19;
+        float fees=199999.99f;
+        char grade= 's';
+        float cgpa=9.8f;
+        System.out.println("the name of the student is : "+name);
+        System.out.println("the id of the student is : "+id);
+        System.out.println("the age of the student is : "+age);
+        System.out.println("the annual fee of the student is : "+fees);
+        System.out.println("the grade of the student is : "+grade);
+        System.out.println("the cgpa of the student is : "+cgpa);
+    }
+}
