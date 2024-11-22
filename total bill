@@ -1,0 +1,14 @@
+public class bill
+{
+    public static void main(String[] args)
+    {
+        int banana=5;
+        float bananarate=10.5f;
+        int apples =6;
+        float applesrate=25.9f;
+        float totalbanana=banana*bananarate;
+        float totalapples=apples*applesrate;
+        float result=totalbanana+totalapples;
+        System.out.println("the total bill amount in $"+result);
+    }
+}
